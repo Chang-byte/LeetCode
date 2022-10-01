@@ -10,7 +10,6 @@ LeetCode算法
 
 https://leetcode.cn/problems/binary-search/
 
-![image-20221001221007752](Day01.assets/image-20221001221007752.png)
 
 ```java
 class Solution {
@@ -61,9 +60,6 @@ class Solution {
 
 https://leetcode.cn/problems/first-bad-version/
 
-![image-20221001220328050](C:%5CUsers%5C12412%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5Cimage-20221001220328050.png)
-
-
 
 ```java
 public class Solution extends VersionControl {
@@ -100,7 +96,6 @@ public class Solution extends VersionControl {
 
 https://leetcode.cn/problems/search-insert-position/
 
-![image-20221001220951186](Day01.assets/image-20221001220951186.png)
 
 ```java
 class Solution {
@@ -137,8 +132,6 @@ class Solution {
 
 https://leetcode.cn/problems/squares-of-a-sorted-array/
 
-![image-20221001221639515](Day01.assets/image-20221001221639515.png)
-
 
 
 ```java
@@ -168,7 +161,6 @@ class Solution {
 
 https://leetcode.cn/problems/rotate-array/
 
-![image-20221001222046085](Day01.assets/image-20221001222046085.png)
 
 ```java
 class Solution {
